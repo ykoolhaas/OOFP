@@ -1,0 +1,27 @@
+products:
+   C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\src\warmup\Exercises(old).scala -> C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\build\classes\scala\main\warmup\Exercises$.class
+   C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\src\warmup\Exercises(old).scala -> C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\build\classes\scala\main\warmup\Exercises$Game.class
+   C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\src\warmup\Exercises(old).scala -> C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\build\classes\scala\main\warmup\Exercises$Observation$.class
+   C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\src\warmup\Exercises(old).scala -> C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\build\classes\scala\main\warmup\Exercises$Observation.class
+   C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\src\warmup\Exercises(old).scala -> C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\build\classes\scala\main\warmup\Exercises$Player.class
+   C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\src\warmup\Exercises(old).scala -> C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\build\classes\scala\main\warmup\Exercises$SpeedOffender$.class
+   C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\src\warmup\Exercises(old).scala -> C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\build\classes\scala\main\warmup\Exercises$SpeedOffender.class
+   C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\src\warmup\Exercises(old).scala -> C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\build\classes\scala\main\warmup\Exercises$Time$.class
+   C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\src\warmup\Exercises(old).scala -> C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\build\classes\scala\main\warmup\Exercises$Time.class
+   C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\src\warmup\Exercises(old).scala -> C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\build\classes\scala\main\warmup\Exercises.class
+binary dependencies:
+   C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\src\warmup\Exercises(old).scala -> C:\Users\Youssef\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.13.6\ed7a2f528c7389ea65746c22a01031613d98ab3d\scala-library-2.13.6.jar
+   C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\src\warmup\Exercises(old).scala -> C:\Users\Youssef\.gradle\caches\modules-2\files-2.1\org.scalacheck\scalacheck_2.13\1.14.3\2d7e2b48e9e3412316dcfa1dec14b31b69da96a8\scalacheck_2.13-1.14.3.jar
+source dependencies:
+external dependencies:
+class names:
+   C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\src\warmup\Exercises(old).scala -> warmup.Exercises
+   C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\src\warmup\Exercises(old).scala -> warmup.Exercises$
+   C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\src\warmup\Exercises(old).scala -> warmup.Exercises$Game
+   C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\src\warmup\Exercises(old).scala -> warmup.Exercises$Observation
+   C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\src\warmup\Exercises(old).scala -> warmup.Exercises$Observation$
+   C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\src\warmup\Exercises(old).scala -> warmup.Exercises$Player
+   C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\src\warmup\Exercises(old).scala -> warmup.Exercises$SpeedOffender
+   C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\src\warmup\Exercises(old).scala -> warmup.Exercises$SpeedOffender$
+   C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\src\warmup\Exercises(old).scala -> warmup.Exercises$Time
+   C:\Users\Youssef\Documents\VU\P1\OOFP\warmup-master\src\warmup\Exercises(old).scala -> warmup.Exercises$Time$
