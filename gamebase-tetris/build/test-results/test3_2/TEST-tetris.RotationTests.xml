@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tetris.RotationTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-10-04T11:42:27" hostname="DESKTOP-JDSIO1T" time="0.029">
+  <properties/>
+  <testcase name="testIRotations" classname="tetris.RotationTests" time="0.007"/>
+  <testcase name="testJRotations" classname="tetris.RotationTests" time="0.005"/>
+  <testcase name="testLRotations" classname="tetris.RotationTests" time="0.003"/>
+  <testcase name="testORotations" classname="tetris.RotationTests" time="0.003"/>
+  <testcase name="testSRotations" classname="tetris.RotationTests" time="0.002"/>
+  <testcase name="testTRotations" classname="tetris.RotationTests" time="0.003"/>
+  <testcase name="testZRotations" classname="tetris.RotationTests" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
