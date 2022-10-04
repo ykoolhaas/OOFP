@@ -1,0 +1,26 @@
+products:
+   C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$.class
+   C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$Game.class
+   C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$Observation$.class
+   C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$Observation.class
+   C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$Player.class
+   C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$SpeedOffender$.class
+   C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$SpeedOffender.class
+   C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$Time$.class
+   C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$Time.class
+   C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises.class
+binary dependencies:
+   C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> C:\Users\Youssef\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.13.8\5a865f03a794b27e6491740c4c419a19e4511a3d\scala-library-2.13.8.jar
+source dependencies:
+external dependencies:
+class names:
+   C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> warmup.Exercises
+   C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> warmup.Exercises$
+   C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> warmup.Exercises$Game
+   C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> warmup.Exercises$Observation
+   C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> warmup.Exercises$Observation$
+   C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> warmup.Exercises$Player
+   C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> warmup.Exercises$SpeedOffender
+   C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> warmup.Exercises$SpeedOffender$
+   C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> warmup.Exercises$Time
+   C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> warmup.Exercises$Time$

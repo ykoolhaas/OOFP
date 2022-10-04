@@ -1,0 +1,309 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main
+compile options:
+2 items
+0 -> -deprecation
+1 -> -unchecked
+javac options:
+11 items
+00 -> -source
+01 -> 11
+02 -> -target
+03 -> 11
+04 -> -d
+05 -> C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main
+06 -> -g
+07 -> -proc:none
+08 -> -s
+09 -> C:\Users\Youssef\OOFP-2022\warmup-master\build\generated\sources\annotationProcessor\scala\main
+10 -> -XDuseUnsharedTable=true
+compiler version:
+1 items
+0 -> 2.13.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+10 items
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$.class
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$Game.class
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$Observation$.class
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$Observation.class
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$Player.class
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$SpeedOffender$.class
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$SpeedOffender.class
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$Time$.class
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$Time.class
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises.class
+binary dependencies:
+1 items
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> C:\Users\Youssef\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.13.8\5a865f03a794b27e6491740c4c419a19e4511a3d\scala-library-2.13.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+10 items
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> warmup.Exercises
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> warmup.Exercises$
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> warmup.Exercises$Game
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> warmup.Exercises$Observation
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> warmup.Exercises$Observation$
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> warmup.Exercises$Player
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> warmup.Exercises$SpeedOffender
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> warmup.Exercises$SpeedOffender$
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> warmup.Exercises$Time
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> warmup.Exercises$Time$
+used names:
+197 items
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> !=
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> %
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> &&
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> *
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> +
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> +=
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> -
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> ->
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> /
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> :+
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> <
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> <=
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> <init>
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> <repeated>
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> ==
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> >
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> >=
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> A
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> AbstractFunction2
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> AbstractFunction3
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> AbstractFunction4
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> AllGrades
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Any
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> AnyRef
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Array
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> ArrayBuffer
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> ArrayOps
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> ArrowAssoc
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> B
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Boolean
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Class
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> ClassTag
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Double
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Exercises
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Function1
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Game
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> HashMap
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> IndexOfMax
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Int
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> IntManifest
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Iterator
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> K
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> List
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> ListBuffer
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Long
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> ManifestFactory
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Map
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Math
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> ModuleSerializationProxy
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> None
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Nothing
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Object
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Observation
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Option
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Player
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Predef
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Product
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Range
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> RichInt
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> ScalaRunTime
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Seq
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Serializable
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Some
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> SpeedOffender
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> SplitArray
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Statics
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> String
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> StringOps
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> T
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> T0
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> T1
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> T2
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> T3
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> T4
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Time
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Tuple2
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Tuple3
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Tuple4
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> U
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> Unit
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> V
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> _$3
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> _1
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> _2
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> _hashCode
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> _toString
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> a
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> anyHash
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> apply
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> asInstanceOf
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> augmentString
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> averageGrade
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> b
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> calcSpeed
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> cameraSet
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> collatzLength
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> collection
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> count
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> currentNumber
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> daysSinceEpoch
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> diamond
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> distanceAB
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> doubleHash
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> el
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> eloK
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> empty
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> end
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> endInSeconds
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> endTime
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> endTimeOfCar
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> eq
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> finalizeHash
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> firstArray
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> foreach
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> game
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> games
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> grades
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> hasSpeeded
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> hashCode
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> height
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> hours
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> i
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> indexOfMax
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> initRating
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> intArrayOps
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> intWrapper
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> ioobe
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> isEmpty
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> java
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> lang
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> length
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> licensePlate
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> materializeClassTag
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> math
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> mergeSort
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> mergeSortedArrays
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> minutes
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> mix
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> mutable
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> name
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> numberOfSpaces
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> numberOfSymbols
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> ob
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> observations
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> opponentRating
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> outcome
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> p
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> package
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> playerA
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> playerB
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> pointerA
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> pointerB
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> pow
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> productPrefix
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> rating
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> rating_=
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> refArrayOps
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> reflect
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> result
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> reverse
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> round
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> runtime
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> scala
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> secondArray
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> seconds
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> sorted
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> speed
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> speedLimitDay
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> speedLimitNight
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> split
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> splitArray
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> start
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> startInSeconds
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> startTime
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> startTimeOfCar
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> stripMargin
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> text
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> time
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> timeInterval
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> toDouble
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> toInt
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> toLowerCase
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> totalGrades
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> totalSum
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> typedProductIterator
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> until
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> update
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> updateRating
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> warmup
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> while$1
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> while$2
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> while$3
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> while$4
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> withDefaultValue
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> word
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> wordCount
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> ||
+product stamps:
+10 items
+C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$.class -> lastModified(1662564092259)
+C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$Game.class -> lastModified(1662564092259)
+C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$Observation$.class -> lastModified(1662564092274)
+C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$Observation.class -> lastModified(1662564092259)
+C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$Player.class -> lastModified(1662564092259)
+C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$SpeedOffender$.class -> lastModified(1662564092274)
+C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$SpeedOffender.class -> lastModified(1662564092274)
+C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$Time$.class -> lastModified(1662564092259)
+C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises$Time.class -> lastModified(1662564092259)
+C:\Users\Youssef\OOFP-2022\warmup-master\build\classes\scala\main\warmup\Exercises.class -> lastModified(1662564092259)
+source stamps:
+1 items
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> hash(7856dcadfbed5485543988982f59be5be00996ef)
+binary stamps:
+1 items
+C:\Users\Youssef\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.13.8\5a865f03a794b27e6491740c4c419a19e4511a3d\scala-library-2.13.8.jar -> lastModified(1662462545027)
+class names:
+1 items
+C:\Users\Youssef\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.13.8\5a865f03a794b27e6491740c4c419a19e4511a3d\scala-library-2.13.8.jar -> scala.Product
+internal apis:
+1 items
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwZ4jYMgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABJc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwJ0IT6HQAB3BsYXllckJzcQB+AAzq9qaddAAGbm90aWZ5c3EAfgAMF8kJunQAB3VuYXBwbHlzcQB+AAz1vwVRdAAHY3VycmllZHNxAH4ADNTgxkh0AARuYW1lc3EAfgAMdwNTWnQABlBsYXllcnNxAH4ADAew+sZ0AAR3YWl0c3EAfgAM+7EUOHQADWRpYW1vbmRTdHJpbmdzcQB+AAxzxQcFdAAOY29weSRkZWZhdWx0JDJzcQB+AAySUprvdAAKaW5kZXhPZk1heHNxAH4ADCyIsMJ0AAxwcm9kdWN0QXJpdHlzcQB+AAxkDyzOdAAGZXF1YWxzc3EAfgAMXAj3OXQACWNhbWVyYVNldHNxAH4ADNeY8Wp0AAdwbGF5ZXJBc3EAfgAMGxn393QAD3VwZGF0ZUVsb1Njb3Jlc3NxAH4ADGV87Pp0AAxhc0luc3RhbmNlT2ZzcQB+AAwkmdk5dAAJY2FsY1NwZWVkc3EAfgAMgZdNp3QAB3NlY29uZHNzcQB+AAwY13zzdAAMc3luY2hyb25pemVkc3EAfgAM0spkFnQADXNwZWVkTGltaXREYXlzcQB+AAxX0vPSdAAGdHVwbGVkc3EAfgAMNfGmKnQAB291dGNvbWVzcQB+AAxPBTPJdAAJd29yZENvdW50c3EAfgAMgUqbSXQACnNwbGl0QXJyYXlzcQB+AAwnmID5dAAIY2FuRXF1YWxzcQB+AAw5ZchLdAAOY29weSRkZWZhdWx0JDRzcQB+AAxJ6jBjdAALT2JzZXJ2YXRpb25zcQB+AAylbMXedAANcHJvZHVjdFByZWZpeHNxAH4ADLSMW4J0AAlub3RpZnlBbGxzcQB+AAyBu9PfdAAJRXhlcmNpc2Vzc3EAfgAMi97c73QACmluaXRSYXRpbmdzcQB+AAzQM27sdAAMaXNJbnN0YW5jZU9mc3EAfgAMeMqUlHQADmRheXNTaW5jZUVwb2Noc3EAfgAMf60qpHQADHVwZGF0ZVJhdGluZ3NxAH4ADLBtLIV0AA9zcGVlZExpbWl0TmlnaHRzcQB+AAxom4/adAAHbWludXRlc3NxAH4ADLLZpSh0AAltZXJnZVNvcnRzcQB+AAzpd39adAAFaG91cnNzcQB+AAwgQPIRdAAOc3BlZWRPZmZlbmRlcnNzcQB+AAxHQToidAANY29sbGF0ekxlbmd0aHNxAH4ADBqjfft0AAY8aW5pdD5zcQB+AAzcU3xSdAAER2FtZXNxAH4ADLhe/iZ0AAVhcHBseXNxAH4ADIpXM5R0AAZyYXRpbmdzcQB+AAzeVTMydAACPT1zcQB+AAzULJr5dAAGc29ydGVkc3EAfgAM95V15HQABWNsb25lc3EAfgAMZIinZ3QADGxpY2Vuc2VQbGF0ZXNxAH4ADBFKdYR0AAYkaW5pdCRzcQB+AAwmNAdbdAARbWVyZ2VTb3J0ZWRBcnJheXNzcQB+AAxx3OijdAAOY29weSRkZWZhdWx0JDNzcQB+AAwQ1QB6dAAEY29weXNxAH4ADBy0XT50AARlbG9Lc3EAfgAMYHwxWHQACHRvU3RyaW5nc3EAfgAMnb9zCnQACmhhc1NwZWVkZWRzcQB+AAzke31AdAACIT1zcQB+AAwWJTZ0dAAEdGltZXNxAH4ADPdj9FZ0AAhnZXRDbGFzc3NxAH4ADNRDtp90AA1TcGVlZE9mZmVuZGVyc3EAfgAMh5NPvXQADmNvcHkkZGVmYXVsdCQxc3EAfgAMRIj47XQAEnByb2R1Y3RFbGVtZW50TmFtZXNxAH4ADMX383J0AAxhdmVyYWdlR3JhZGVzcQB+AAzw1TozdAACbmVzcQB+AAwlQvtHdAAKZGlzdGFuY2VBQnNxAH4ADGa8Tj10AAJlcXNxAH4ADDw5xkV0AARUaW1lc3EAfgAMVmlGbXQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADA1k8T10AAIjI3NxAH4ADPpD58R0AAVzcGVlZHNxAH4ADOdpmGx0AAhmaW5hbGl6ZXNxAH4ADJ2MW3J0AA5wcm9kdWN0RWxlbWVudHNxAH4ADPo1XBB0AAhoYXNoQ29kZXNxAH4ADFrcnhx0ABNwcm9kdWN0RWxlbWVudE5hbWVzc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AqXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAEHdhcm11cC5FeGVyY2lzZXN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAMc2NhbGEubmF0aXZldAAmamRrLmludGVybmFsLkhvdFNwb3RJbnRyaW5zaWNDYW5kaWRhdGVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Aw3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCpTAAJaW5oZXJpdGVkcQB+AKlMAAdwYXJlbnRzcQB+AKl4cQB+AMhzcQB+AMN1cQB+AKQAAAAAc3EAfgDDdXEAfgCkAAAAAHNxAH4Aw3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ax3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ax3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4A4HQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A4XNxAH4A1HQAA0FueXNxAH4A2HNxAH4A23VxAH4A3gAAAAJzcQB+AOB0AAVzY2FsYXEAfgDndXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGd2FybXVwc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAGDGIq9c3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEFDOlxVc2Vyc1xZb3Vzc2VmXE9PRlAtMjAyMlx3YXJtdXAtbWFzdGVyXGJ1aWxkXGNsYXNzZXNcc2NhbGFcbWFpbnQAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHhW3K377VSFVDmImC9ZvlvgCZbv
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\Youssef\OOFP-2022\warmup-master\src\warmup\Exercises.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABgxiKvXN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUM6XFVzZXJzXFlvdXNzZWZcT09GUC0yMDIyXHdhcm11cC1tYXN0ZXJcYnVpbGRcY2xhc3Nlc1xzY2FsYVxtYWludAABLw==

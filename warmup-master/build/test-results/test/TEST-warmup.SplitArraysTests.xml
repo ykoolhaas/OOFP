@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="warmup.SplitArraysTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-09-07T15:16:23" hostname="DESKTOP-JDSIO1T" time="0.006">
+  <properties/>
+  <testcase name="split0" classname="warmup.SplitArraysTests" time="0.003"/>
+  <testcase name="split1" classname="warmup.SplitArraysTests" time="0.001"/>
+  <testcase name="split2" classname="warmup.SplitArraysTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
