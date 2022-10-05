@@ -41,6 +41,7 @@ class TetrisLogic(val randomGen: RandomGenerator,
   def isGameOver: Boolean = currentGameState.gameOver
 
   def getCellType(p : Point): CellType = {
+    currentGameState = currentGameState.handleFullRows(0, currentGameState)
     for(tetromino <- currentGameState.tetrominoes){
       for(square <- tetromino.squares){
         if((square + tetromino.anchorPoint) == p){

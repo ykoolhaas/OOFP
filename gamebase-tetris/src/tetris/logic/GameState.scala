@@ -27,17 +27,19 @@ case class GameState(
     }
   }
 
-  def handleFullRows(): GameState ={
-    val rowsToRemove : List[Boolean] = List()
-    for(y <- gridDims.height - 1 until 0){
-      if (rowIsFull(y)){
-      }
+  def handleFullRows(y : Int, gameState: GameState): GameState ={
+    if (y >= gridDims.height){
+      return gameState
     }
-    this
+    if(rowIsFull(y)){
+      handleFullRows(y + 1, gameState.removeFullRow(y))
+    }
+    else handleFullRows(y + 1, gameState)
   }
 
-  def removeFullRows(rowToRemove : List[Int]) : List[Tetromino] = {
-    List()
+  def removeFullRow(y : Int) : GameState= {
+    val newTetrominoes : List[Tetromino] = tetrominoes.map(tetromino => tetromino.removeRow(y))
+    GameState(gameOver, newTetrominoes, gridDims, randomGen)
   }
 
   def rowIsFull(y : Int): Boolean = {
@@ -114,7 +116,7 @@ case class GameState(
     GameState(gameOver, newTetrominoes, gridDims, randomGen)
   }
 
-  def doHardDrop(tetromino: Tetromino): GameState = { //TODO implement
+  def doHardDrop(tetromino: Tetromino): GameState = {
     for(p <- tetromino.squares){
       val actualPoint : Point = p + tetromino.moveDown().anchorPoint
       if(isOccupied(actualPoint) || isOutOfBounds(actualPoint)) return GameState(gameOver, updateTetromino(tetromino), gridDims, randomGen)

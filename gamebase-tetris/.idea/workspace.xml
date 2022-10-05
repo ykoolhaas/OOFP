@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5181f6c-d938-42c4-a826-567c557ecce1" name="Changes" comment="1" />
+    <list default="true" id="e5181f6c-d938-42c4-a826-567c557ecce1" name="Changes" comment="add all">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/scala/compilerAnalysis/compileTestScala.analysis" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/scala/compilerAnalysis/compileTestScala.analysis" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tetris/logic/GameState.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/tetris/logic/GameState.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tetris/logic/TetrisLogic.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/tetris/logic/TetrisLogic.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tetris/logic/Tetromino.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/tetris/logic/Tetromino.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +60,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="Scala Compiler" />
   </component>
   <component name="RunManager" selected="Application.TetrisGame">
     <configuration name="TetrisGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -102,23 +118,23 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="TetrisTestSuite3_2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="gamebase-tetris [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;tetris.TetrisTestSuite3_2&quot;" />
+        <option name="scriptParameters" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value=":test3_1" />
+            <option value="test" />
           </list>
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
@@ -157,20 +173,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TetrisGame" />
       <item itemvalue="Gradle.tetris3.1" />
       <item itemvalue="Gradle.TetrisTestSuite3_1" />
-      <item itemvalue="Gradle.TetrisTestSuite3_2" />
       <item itemvalue="Gradle.DropTests" />
+      <item itemvalue="Gradle.gamebase-tetris [test]" />
       <item itemvalue="Scala REPL.Scala REPL" />
+      <item itemvalue="Application.TetrisGame" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TetrisGame" />
+        <item itemvalue="Gradle.gamebase-tetris [test]" />
         <item itemvalue="Scala REPL.Scala REPL" />
         <item itemvalue="Gradle.DropTests" />
         <item itemvalue="Gradle.TetrisTestSuite3_1" />
-        <item itemvalue="Gradle.TetrisTestSuite3_2" />
-        <item itemvalue="Application.TetrisGame" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664895257711</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add all">
+      <created>1664897664839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664897664839</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,7 +249,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="add all" />
+    <option name="LAST_COMMIT_MESSAGE" value="add all" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
